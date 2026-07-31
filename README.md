@@ -24,3 +24,4 @@ $${\color{purple}Ramal Web }$$
 
 ${\textsf{\color{purple}Ramal Web}}$
 <span style="color: purple;">Ramal Web</span>
+${\text{\color{purple}Ramal Web}}$
