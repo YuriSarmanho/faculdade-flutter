@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-$${\color{purple}Ramal Web \space Github}$$
+$${\color{purple}Ramal Web }$$
