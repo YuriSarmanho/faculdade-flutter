@@ -31,3 +31,4 @@ samples, guidance on mobile development, and a full API reference.
 + Misses       7927     7920       -7     
 + Partials      123      122       -1
 $${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
+$${\color{purple}Teste TEste teste \space Github}$$
